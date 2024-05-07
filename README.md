@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://github.com/stef-ania/stef-ania/blob/main/assets/github%20portada.png
 -->
+
+![Hi there! I'm Stefania, a Web Developer with UX/UI experience](https://github.com/stef-ania/stef-ania/blob/main/assets/github%20portada.png)
+
+## About me 🦄
+
+I'm a Web Developer and UX/UI designer with more than 10 years of experience creating digital products.
+
+I enjoy tackling challenges effectively, putting special emphasis on UX/UI details 💅🏾 and applying clean code principles (SOLID, KISS), testing and using agile methodologies.
