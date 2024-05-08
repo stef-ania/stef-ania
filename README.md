@@ -2,16 +2,14 @@
 
 ## 🦄 About me
 
-I'm a flexible and passionate **full-stack Web Developer**, with experience as **UX/UI Designer** 💅🏾, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
-I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programming and agile methodologies, enabling me to **deliver value** through high quality and timely iterations.
-
 <h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&pause=1000&color=8029F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stef.;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 </h1>
 
-<hr>
+I'm a flexible and passionate **full-stack Web Developer**, with experience as **UX/UI Designer** 💅🏾, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
+I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programming and agile methodologies, enabling me to **deliver value** through high quality and timely iterations.
 
 ## 📫 How to reach me
 
@@ -34,7 +32,7 @@ I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programm
 
 **🧩 Backend Development**
 
-- Server-Side: PHP/Laravel, Node.js
+- Server-Side: PHP / Laravel, Node.js
 - Database: MySQL / MongoDB
 
 **🤓 Testing**
@@ -52,8 +50,10 @@ I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programm
 
 ## Hobbies
 
-🧠 Learning new things
-👩‍💻 Doing personal projects
+<p>
+&nbsp;&nbsp;🌱&nbsp;&nbsp;Learning new things<br/>
+&nbsp;&nbsp;👩‍💻&nbsp;&nbsp;Doing personal projects
+</p>
 
 ## 🧐 Languages and tools
 
@@ -93,7 +93,7 @@ I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programm
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stef-ania&theme=dracula" height="180em"/>
 </div>
 
-## 💫 Today's Quote :
+## 💫 Today's Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
