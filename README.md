@@ -43,6 +43,7 @@ I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programm
 - Atomic Design & Figma
 - Postman
 - Accesibility
+- API REST
 
 ## 🌈 Hobbies
 
