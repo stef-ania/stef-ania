@@ -1,30 +1,59 @@
-<!--
-**stef-ania/stef-ania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- https://github.com/stef-ania/stef-ania/blob/main/assets/github%20portada.png
--->
-
 ![Hi there! I'm Stefania, a Web Developer with UX/UI experience](https://github.com/stef-ania/stef-ania/blob/main/assets/github%20portada.png)
 
 ## 🦄 About me
 
 I'm a flexible and passionate **full-stack Web Developer**, with experience as **UX/UI Designer** 💅🏾, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
-I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programming and agile methodologies, enabling me to **deliver value** through high quality and **timely iterations**.
+I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programming and agile methodologies, enabling me to **deliver value** through high quality and timely iterations.
+
+<h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&pause=1000&color=8029F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stef.;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
+
+</h1>
+
+<hr>
 
 ## 📫 How to reach me
 
-- Email: **stefi.deso@gmail.com**
-- Linkedin: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefania-desogus/)
+- 👀 I’m a Web Developer
+- 💞️ I’m looking to collaborate on **nice projects**
+- 📫 How to reach me 👇
+<p> <a href="https://www.linkedin.com/in/stefania-desogus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
+<a href="mailto:stefi.deso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+
+## 🛠 Skills
+
+**🎨 Frontend Development**
+
+- HTML5
+- CSS / SASS
+- JavaScript / ES6
+- React.js
+- Styled-components
+- Routing with Next.js
+
+**🧩 Backend Development**
+
+- Server-Side: PHP/Laravel, Node.js
+- Database: MySQL / MongoDB
+
+**🤓 Testing**
+
+- Front: Jest / Vitest / Cypress
+- Back: PHPUnit
+
+**✨ Other Skills & Tools**
+
+- Composer
+- Package Manager: NPM
+- Atomic Design & Figma
+- Postman
+- Accesibility
+
+## Hobbies
+
+🧠 Learning new things
+👩‍💻 Doing personal projects
 
 ## 🧐 Languages and tools
 
@@ -56,12 +85,16 @@ I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programm
 <a href="https://trello.com/es" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="auto" height="40"/></a> 
 </p>
 
-## 📈 Some data
+## 📈 GitHub Stats
 
 <a href="https://github.com/stef-ania">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stef-ania&theme=dracula" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stef-ania&theme=dracula" height="180em"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stef-ania&theme=dracula" height="180em"/>
 </div>
+
+## 💫 Today's Quote :
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![](https://media.giphy.com/media/OPYnG3Xf8zLag/giphy.gif)
