@@ -2,9 +2,10 @@
 
 ## 🦄 About me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&size=16&pause=1000&color=8029F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stef.;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
 I'm a flexible and passionate **full-stack Web Developer**, with experience as **UX/UI Designer** 💅🏾, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
 I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programming and agile methodologies, enabling me to **deliver value** through high quality and timely iterations.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&size=16&pause=1000&color=8029F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stef.;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ## 📫 How to reach me
 
