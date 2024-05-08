@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 I'm a flexible and passionate **full-stack Web Developer**, with experience as **UX/UI Designer** 💅🏾, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
 I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programming and agile methodologies, enabling me to **deliver value** through high quality and **timely iterations**.
 
-### How to reach me 📫
+## How to reach me 📫
 
 - Email: **stefi.deso@gmail.com**
 - Linkedin: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefania-desogus/)
 
-### Languages and tools 🧐
+## Languages and tools 🧐
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="40"/></a> 
@@ -56,7 +56,7 @@ I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programm
 <a href="https://trello.com/es" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="auto" height="40"/></a> 
 </p>
 
-### Some data 📈
+## Some data 📈
 
 <a href="https://github.com/stef-ania">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stef-ania&theme=dracula" height="180em" />
