@@ -1,58 +1,25 @@
-![Hi there! I'm Stefania, a Web Developer with UX/UI experience](https://github.com/stef-ania/stef-ania/blob/main/assets/github%20portada.png)
+![Hi there! I'm Stefania](https://github.com/stef-ania/stef-ania/blob/main/assets/github%20portada.png)
 
 ## 🦄 About me
 
-I'm a flexible and passionate **full-stack Web Developer**, with experience as **UX/UI Designer** 💅🏾, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
-I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programming and agile methodologies, enabling me to **deliver value** through high quality and timely iterations.
+I'm a passionate **Full-Stack Web Developer**, with several years of experience as a **UX/UI Designer** 💅, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
+
+- 🌈 I love build clean user interfaces and create nice user experience.<br>
+- ⚙️ Always thinking about:  `Accesibility` , `Usability` , `Web Performance`, `Testing` , `SOLID` , `Clean Code`.<br>
+- 🌱 Maxim: never stop learning. <br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/stefania-desogus/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+  <a href="mailto:stefi.deso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&size=16&pause=1000&color=8029F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stef.;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-## 📫 How to reach me
+## 📈 GitHub Stats
 
-- 👀 I’m a Web Developer | UX/UI Engineer
-- 💞️ I’m looking to collaborate on **nice projects**
-- 📫 How to reach me 👇
-<p> <a href="https://www.linkedin.com/in/stefania-desogus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
-<a href="mailto:stefi.deso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+<a href="https://github.com/stef-ania">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stef-ania&theme=dracula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stef-ania&theme=dracula" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stef-ania&theme=dracula" height="180em"/></a>
 
-## 🛠 Skills
-
-**🎨 Frontend Development**
-
-- HTML5
-- CSS / SASS
-- JavaScript / ES6
-- React.js
-- Styled-components
-- Routing with Next.js
-
-**🧩 Backend Development**
-
-- Server-Side: PHP / Laravel, Node.js
-- Database: MySQL / MongoDB
-
-**🤓 Testing**
-
-- Front: Jest / Vitest / Cypress
-- Back: PHPUnit
-
-**✨ Other Skills & Tools**
-
-- Composer
-- Package Manager: NPM
-- Atomic Design & Figma
-- Postman
-- Accesibility
-- API REST
-
-## 🌈 Hobbies
-
-<p>
-&nbsp;&nbsp;🌱&nbsp;&nbsp;Learning new things<br/>
-&nbsp;&nbsp;👩‍💻&nbsp;&nbsp;Doing personal projects
-</p>
-
-## 🧐 Languages and tools
+## 🧐 Languages and Tools that I've worked with
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="40"/></a> 
@@ -75,20 +42,15 @@ I'm a **dedicated learner** and enthusiastic advocate of extreme & pair programm
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://axios-http.com/es/docs/intro" target="_blank"><img src="https://user-images.githubusercontent.com/73828751/196030863-d28d99a9-ce4e-440a-8f59-5fab5299e1df.png" alt="axios" width="auto" height="20"/></a>
 <a href="https://phpunit.de/" target="_blank"><img src="https://user-images.githubusercontent.com/73828751/196030806-4a640ee5-1ec0-4557-b3aa-fd40ee3f91cc.png" alt="phpunit" width="auto" height="20"/></a>
+<a href="https://angular.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="auto" height="15"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="auto" height="15"/></a>
 <a href="https://vercel.com/" target="_blank"><img src="https://github.com/MAlexGG/MAlexGG/assets/73828751/f1f33517-55b9-4a67-9ccb-3af016fa2e7c" alt="vercel" width="auto" height="15"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="auto" height="40"/></a> 
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://user-images.githubusercontent.com/73828751/196030474-31779225-44d8-4100-8978-4afeb83954d4.png" alt="photoshop" width="auto" height="40"/></a> 
 <a href="https://www.adobe.com/es/products/xd.html" target="_blank"><img src="https://user-images.githubusercontent.com/73828751/196030543-a5901166-27c5-4199-aac7-941f9708ecd1.png" alt="adobe-xd" width="auto" height="40"/></a>
+<a href="https://www.atlassian.com/es/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="auto" height="40"/></a> 
 <a href="https://trello.com/es" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="auto" height="40"/></a> 
 </p>
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/stef-ania">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stef-ania&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stef-ania&theme=dracula" height="180em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stef-ania&theme=dracula" height="180em"/>
-</div>
 
 ## 💫 Today's Quote
 
