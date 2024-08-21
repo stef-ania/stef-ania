@@ -5,7 +5,7 @@
 I'm a passionate **Full-Stack Web Developer**, with several years of experience as a **UX/UI Designer** 💅, who loves designing and building **maintainable and scalable** solutions using the proper tools and **best practices**.
 
 - 🌈 I love build clean user interfaces and create nice user experience.<br>
-- ⚙️ Always thinking about:  `Accesibility` , `Usability` , `Web Performance`, `Testing` , `SOLID` , `Clean Code`.<br>
+- ⚙️ Always thinking about:  `Accessibility` , `Usability` , `Web Performance`, `Testing` , `SOLID` , `Clean Code`.<br>
 - 🌱 Maxim: never stop learning. <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/stefania-desogus/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
   <a href="mailto:stefi.deso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a><br>
