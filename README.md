@@ -1,4 +1,4 @@
-![Hi there! I'm Stefania](https://github.com/stef-ania/stef-ania/blob/main/assets/github_welcome_image.png)
+![Hi there! I'm Stefania](https://github.com/stef-ania/stef-ania/blob/main/assets/github-portada-nov-24.jpg)
 
 ## 🦄 About me
 
