@@ -2,7 +2,7 @@
 
 ## 🦄 About me
 
-I'm a passionate **Product Designer (UX/UI)**, with over 10 years of experience creating user-focused digital products. Also, **I'm a CSS lover 💜** and I enjoy coding simple applications and creating beautiful landing pages.
+I'm a passionate **Product Designer (UX/UI)**, with over 10 years of experience creating user-focused digital products. Also, **I'm a CSS lover 💜** , I enjoy coding simple applications and creating beautiful landing pages.
 
 - 🌈 I love build clean user interfaces and create nice user experience.<br>
 - ⚙️ Always thinking how to improve:  `Accessibility` , `Usability` and `Web Performance`.<br>
