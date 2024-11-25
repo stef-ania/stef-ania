@@ -4,7 +4,7 @@
 
 I'm a passionate **Product Designer (UX/UI)**, with over 10 years of experience creating user-focused digital products. Also, **I'm a CSS lover 💜** , I enjoy coding simple applications and creating beautiful landing pages.
 
-- 🌈 I love build clean user interfaces and create nice user experience.<br>
+- 🌈 I love crafting clean user interfaces and designing seamless user experiences.<br>
 - ⚙️ Always thinking how to improve:  `Accessibility` , `Usability` and `Web Performance`.<br>
 - 🌱 Maxim: never stop learning. <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/stefania-desogus/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
